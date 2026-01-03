@@ -1,3 +1,4 @@
 # First .gitignore
 
 Logs
+*.exe
